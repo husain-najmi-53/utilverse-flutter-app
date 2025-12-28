@@ -55,11 +55,11 @@ Instead of juggling multiple utility apps, users can access everyday tools from 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/HomeScreen.jpg" width="200" />
+  <img src="screenshots/Homescreen.jpg" width="200" />
   <img src="screenshots/Notes.jpg" width="200" />
   <img src="screenshots/Translator.jpg" width="200" />
   <img src="screenshots/Weather.jpg" width="200" />
-  <img src="screenshots/QRgen.jpg" width="200" />
+  <img src="screenshots/QRGen.jpg" width="200" />
   <img src="screenshots/Clock.jpg" width="200" />
 </p>
 
