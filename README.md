@@ -52,8 +52,6 @@ Instead of juggling multiple utility apps, users can access everyday tools from 
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
   <img src="screenshots/Homescreen.jpg" width="200" />
   <img src="screenshots/Notes.jpg" width="200" />
